@@ -27,8 +27,8 @@ fw = front_wheels.Front_Wheels(db='config')
 bw = back_wheels.Back_Wheels(db='config')
 fw.turning_max = 45
 
-forward_speed = 70
-backward_speed = 70
+forward_speed = 100
+backward_speed = 100
 
 back_distance = 10
 turn_distance = 20
